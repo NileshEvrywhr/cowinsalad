@@ -1,0 +1,5250 @@
+{
+  "centers": [
+    {
+      "center_id": 607155,
+      "name": "KAILASH HOSPITAL HEART INST",
+      "address": "H 33 SECTOR 27 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "55d7af79-d41c-4f1d-a6b0-38141755f30c",
+          "date": "21-01-2022",
+          "available_capacity": 284,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 89,
+          "available_capacity_dose2": 98
+        },
+        {
+          "session_id": "3c4410fa-99c9-422d-bd3a-6425b5caf6b7",
+          "date": "21-01-2022",
+          "available_capacity": 272,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 96,
+          "available_capacity_dose2": 96
+        },
+        {
+          "session_id": "057990ed-e127-4681-8ec7-0c6f9e74120c",
+          "date": "22-01-2022",
+          "available_capacity": 272,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 96,
+          "available_capacity_dose2": 98
+        },
+        {
+          "session_id": "3ff51985-b3a0-4a36-b255-b35ac920e6e9",
+          "date": "22-01-2022",
+          "available_capacity": 285,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 88,
+          "available_capacity_dose2": 100
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 723451,
+      "name": "CLOUDNINE HOSPITAL PVT LTD C 9",
+      "address": "SECTOR 51 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:30:00",
+      "to": "17:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "bf9563d3-9853-4bf0-9d88-5db2c2d77c53",
+          "date": "21-01-2022",
+          "available_capacity": 112,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 35,
+          "available_capacity_dose2": 43
+        },
+        {
+          "session_id": "28251206-b9b5-44bb-8f62-5025f5b0ef43",
+          "date": "21-01-2022",
+          "available_capacity": 131,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 35,
+          "available_capacity_dose2": 49
+        },
+        {
+          "session_id": "8634e680-aa6f-466b-9448-dd9eb9eb47cd",
+          "date": "22-01-2022",
+          "available_capacity": 109,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 35,
+          "available_capacity_dose2": 45
+        },
+        {
+          "session_id": "7b0a296f-28c2-4b47-8267-bf38252cbdd4",
+          "date": "22-01-2022",
+          "available_capacity": 136,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 39,
+          "available_capacity_dose2": 49
+        },
+        {
+          "session_id": "852f7800-3ad4-492f-8a41-ac7361bf4dc2",
+          "date": "23-01-2022",
+          "available_capacity": 147,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "cf50e274-d107-46f2-b797-77c9d8e63a79",
+          "date": "23-01-2022",
+          "available_capacity": 137,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 48,
+          "available_capacity_dose2": 49
+        },
+        {
+          "session_id": "e23b1213-83b6-4733-95b9-597a6e0a8ef3",
+          "date": "24-01-2022",
+          "available_capacity": 146,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "1479d80c-abd1-4d4f-9d44-e7deaa276403",
+          "date": "24-01-2022",
+          "available_capacity": 127,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 46,
+          "available_capacity_dose2": 48
+        },
+        {
+          "session_id": "076a8b03-31c5-4f41-9480-c22146804f71",
+          "date": "25-01-2022",
+          "available_capacity": 146,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "47a65ac5-1670-4d46-b288-27bb1e333aea",
+          "date": "25-01-2022",
+          "available_capacity": 147,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-05:00PM"
+          ],
+          "available_capacity_dose1": 47,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1410"
+        }
+      ]
+    },
+    {
+      "center_id": 702289,
+      "name": "GBN CHC BISRAKH",
+      "address": "CHC BISRAKH Near Deshraj Public School Gautam Buddha Nagar Uttar Pradesh 201301",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "09865aaa-c46f-4c98-9b7b-48d7993cf75c",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "ff647f10-f2ac-45bc-9055-f667935d3594",
+          "date": "21-01-2022",
+          "available_capacity": 97,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 28
+        },
+        {
+          "session_id": "d61be20d-7733-4922-af90-a48dfdb8479b",
+          "date": "22-01-2022",
+          "available_capacity": 138,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 87
+        },
+        {
+          "session_id": "285f75b3-56b6-4069-8058-d5598296dfab",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 973213,
+      "name": "G15 BALIKA INTER COLLEGE NOIDA",
+      "address": "Onspot Doses Are Available This Session Site.C - 2 Sector 44 Noida Uttar Pradesh 201301",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "acf13010-50ab-41dd-96c5-71c51e6ffff8",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "b515aba9-cc6e-4847-ab72-9a38490d6ca4",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 976541,
+      "name": "G15 K R MANGLAM SCHOOL",
+      "address": "Onspot Doses Are Available. Plot No. F-2 Pocket P-5 Builder Area Near AWHO Apartments Chi II Greater Noida Uttar Pradesh 201301",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "737889a7-cfb2-447f-9fa2-d8f5dae811df",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "d4c0c810-0169-4542-829f-f0d46ffde106",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 569261,
+      "name": "GBN GIMS GREATER NOIDA",
+      "address": "GIMS G NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Dankaur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3aeb8f2c-8462-4d2c-bb3b-b9cef0f9f5d6",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "fce263df-abb0-4e64-9cd3-9d7d08562c88",
+          "date": "21-01-2022",
+          "available_capacity": 521,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 358
+        },
+        {
+          "session_id": "47134876-24af-42b3-844d-d8f39a6f96b2",
+          "date": "22-01-2022",
+          "available_capacity": 482,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 320
+        },
+        {
+          "session_id": "6f3cae3c-0620-4496-bea5-27ed5cfb7ad7",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "8ac791a9-2b4e-4162-8cfc-96faabafb540",
+          "date": "23-01-2022",
+          "available_capacity": 207,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 130
+        }
+      ]
+    },
+    {
+      "center_id": 973339,
+      "name": "G15 Karl Huber School Noida",
+      "address": "Onspot Doses Are Available At This Session Site. Plot No 4A Institutional Area Sector 62 Noida Uttar Pradesh 201301",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b2c847e7-77bd-4352-a5aa-bc1f2db86344",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "a79cd121-5bff-42ac-96ad-1667065dfbea",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 567582,
+      "name": "GBN PHC BAROLA",
+      "address": "Prahlad Colony Near Guru Tegbahadur Park Baraula Sector 49 Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "bbed96fc-7cb6-4283-8d9d-313e7ecfaa59",
+          "date": "21-01-2022",
+          "available_capacity": 114,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 17
+        },
+        {
+          "session_id": "e15f479a-506c-4a9b-95f3-2bd323201b4b",
+          "date": "22-01-2022",
+          "available_capacity": 171,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 83
+        }
+      ]
+    },
+    {
+      "center_id": 974023,
+      "name": "G15 BIHARI LAL COLLEGE DANKAUR",
+      "address": "Onspot Doses Are Available. 8HX2 7G7 Jaat Colony Dankaur Uttar Pradesh 203201",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0495d926-3684-44bf-bc1d-687f964bf203",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "8ec40b36-41ab-4365-b8f6-78d6d7742f44",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 730824,
+      "name": "MOTHERHOOD",
+      "address": "206A B BLOCK SECTOR 48 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "13:00:00",
+      "to": "19:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "14431b20-6d8d-41f0-8dd9-20923f917e79",
+          "date": "21-01-2022",
+          "available_capacity": 117,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 48,
+          "available_capacity_dose2": 19
+        },
+        {
+          "session_id": "ba923fb9-d702-40d0-a006-60bfa955108d",
+          "date": "21-01-2022",
+          "available_capacity": 117,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 48,
+          "available_capacity_dose2": 19
+        },
+        {
+          "session_id": "79c727b6-c39f-4924-9a2e-da8eeedb63ff",
+          "date": "22-01-2022",
+          "available_capacity": 120,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "fd2c0ee9-d61a-43bd-a17a-daabc39d4284",
+          "date": "22-01-2022",
+          "available_capacity": 116,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 47,
+          "available_capacity_dose2": 19
+        },
+        {
+          "session_id": "6f7a7a0a-cf47-41d3-ba00-3537f92eb449",
+          "date": "23-01-2022",
+          "available_capacity": 119,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "a5a22060-cafe-45c2-acaa-b6bf8fe7c371",
+          "date": "23-01-2022",
+          "available_capacity": 118,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "58957b07-a321-4f8c-89a4-901f88b927f2",
+          "date": "24-01-2022",
+          "available_capacity": 119,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "15447ecb-db32-48b7-9abb-330134f9123d",
+          "date": "24-01-2022",
+          "available_capacity": 116,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM",
+            "03:00PM-04:00PM",
+            "04:00PM-07:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 20
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 723313,
+      "name": "JAYPEE HOSPITAL (J H C L)",
+      "address": "SECTOR 128 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201304,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "9ca09ab9-0335-4cac-85f6-3809985751de",
+          "date": "21-01-2022",
+          "available_capacity": 305,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 143,
+          "available_capacity_dose2": 144
+        },
+        {
+          "session_id": "64a75e40-99d4-4240-a248-ab7d0dd29ae8",
+          "date": "22-01-2022",
+          "available_capacity": 326,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 148,
+          "available_capacity_dose2": 147
+        },
+        {
+          "session_id": "c39e9dcf-90d9-4918-8eb6-0c090cde64e5",
+          "date": "23-01-2022",
+          "available_capacity": 449,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 149,
+          "available_capacity_dose2": 150
+        },
+        {
+          "session_id": "85e7a2db-bb22-44e7-b3df-8c7a25f88a6f",
+          "date": "24-01-2022",
+          "available_capacity": 446,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 149,
+          "available_capacity_dose2": 150
+        },
+        {
+          "session_id": "01365439-3da3-4d72-91d5-ce6b763c5301",
+          "date": "25-01-2022",
+          "available_capacity": 448,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 149,
+          "available_capacity_dose2": 150
+        },
+        {
+          "session_id": "d2da8f17-2796-48d8-acdf-ab30b833788b",
+          "date": "26-01-2022",
+          "available_capacity": 448,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 150,
+          "available_capacity_dose2": 150
+        },
+        {
+          "session_id": "afcec2e3-c6ba-49ae-b6f2-26fbcf449fbd",
+          "date": "27-01-2022",
+          "available_capacity": 448,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 150,
+          "available_capacity_dose2": 150
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 973917,
+      "name": "G15 Samsara The World Academy",
+      "address": "Onspot Doses Are Available. H.S. 21 Sector 37 (RHO II) 1st Avenue Semia Estate Greater Noida Uttar Pradesh 201308",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201307,
+      "lat": 0,
+      "long": 0,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "aebbbb14-31a7-4f9c-ac76-748df2c50e09",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "1e9b3485-6fc7-459d-aa18-362c9142397d",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 607165,
+      "name": "KAILASH HOSPITAL LIMITED",
+      "address": "23 KNOWLEDGE PARK 1 GREATER NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "16:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "117e6c8f-6c8e-4ac4-b5c0-a9fb0f614820",
+          "date": "21-01-2022",
+          "available_capacity": 19,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 19,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "1ef77be8-12e5-4b74-a541-9165d7719814",
+          "date": "21-01-2022",
+          "available_capacity": 58,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 20,
+          "available_capacity_dose2": 20
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 973142,
+      "name": "G15 ACC CONVENT SCHOOL NOIDA",
+      "address": "Onspot Doses Are Available At This Session Site.A-43 Block A Sector 33 Noida Uttar Pradesh 201307",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201307,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a366d355-58bb-4913-8d61-1743c706cefd",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "e67e8ba5-6630-4902-87a9-f32e7221cda2",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 721044,
+      "name": "SCI HEALTHCARE PVT LTD",
+      "address": "ZYGON SQUARE 3 FLOOR BLOCK H1A SECTOR 63 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "12:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "204ce1b4-bcd9-423b-9ad2-5cfd687da84a",
+          "date": "21-01-2022",
+          "available_capacity": 120,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-12:30PM"
+          ],
+          "available_capacity_dose1": 20,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "bd8676aa-cfd2-485e-82c2-1d2d79ff3c5b",
+          "date": "21-01-2022",
+          "available_capacity": 119,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "01d73016-b065-490c-b0de-b2155d689c04",
+          "date": "22-01-2022",
+          "available_capacity": 90,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "2ccfba0a-198d-47d7-84f8-efdd13a8d5e6",
+          "date": "22-01-2022",
+          "available_capacity": 119,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-12:30PM"
+          ],
+          "available_capacity_dose1": 20,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1250"
+        }
+      ]
+    },
+    {
+      "center_id": 682533,
+      "name": "KAILASH HOSPITAL AND NEURO INS",
+      "address": "NH 1 SECTOR 71 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "13:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "05fca7b7-fc82-4517-b5ae-bdf84f7de32e",
+          "date": "21-01-2022",
+          "available_capacity": 58,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 19,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "fb4fb1c0-d78f-4bf6-ab04-d64eff700538",
+          "date": "21-01-2022",
+          "available_capacity": 59,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 19,
+          "available_capacity_dose2": 20
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        }
+      ]
+    },
+    {
+      "center_id": 975347,
+      "name": "G15 RSS INTER COLLEGE",
+      "address": "Onspot Doses Are Available. HHPF Q47 Bisahda Uttar Pradesh 201008",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201008,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "66c62480-2ae4-43a5-9fba-f5e3c615a55d",
+          "date": "21-01-2022",
+          "available_capacity": 11,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 11,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "0ec2ac8c-5019-48ca-b0e1-3a3b3d85e244",
+          "date": "22-01-2022",
+          "available_capacity": 38,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 38,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 605856,
+      "name": "GBN APHC Rabupura",
+      "address": "PHC Rabupura Jewar",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Jewar",
+      "pincode": 203135,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "967f2425-9080-4d50-9176-14818f68d87c",
+          "date": "21-01-2022",
+          "available_capacity": 231,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 131
+        },
+        {
+          "session_id": "e3ca9b2e-920f-4874-8a02-a04403d2b470",
+          "date": "22-01-2022",
+          "available_capacity": 294,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 194
+        }
+      ]
+    },
+    {
+      "center_id": 628160,
+      "name": "MOTHER LAND HOSPITAL PVT",
+      "address": "NH 1 SECTOR -119 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "fa3e253d-3130-448d-99d8-ab2e5344aa63",
+          "date": "21-01-2022",
+          "available_capacity": 292,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 93,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "7ce26472-2695-4264-ac3d-540700bcf82a",
+          "date": "22-01-2022",
+          "available_capacity": 296,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 98
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        }
+      ]
+    },
+    {
+      "center_id": 616302,
+      "name": "GBN UPHC RAIPUR",
+      "address": "UPHC RAIPUR",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f7e3e0b2-dec7-4548-8508-dbfeb5c288a7",
+          "date": "21-01-2022",
+          "available_capacity": 184,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 91
+        },
+        {
+          "session_id": "9015c85a-a7bc-4505-92a1-2e6bbe8bfe52",
+          "date": "22-01-2022",
+          "available_capacity": 179,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 92
+        }
+      ]
+    },
+    {
+      "center_id": 608267,
+      "name": "SATYA MEDICAL CENTER",
+      "address": "A-98 A SECTOR 34 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "b7a18952-e72a-473a-8eae-d5fd1c3b3110",
+          "date": "21-01-2022",
+          "available_capacity": 283,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 98,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "ce3dca83-5f86-421b-9299-b09d3207a436",
+          "date": "21-01-2022",
+          "available_capacity": 245,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:30PM"
+          ],
+          "available_capacity_dose1": 96,
+          "available_capacity_dose2": 49
+        },
+        {
+          "session_id": "ff10b6cb-c453-4b21-b61b-19821db3e98e",
+          "date": "22-01-2022",
+          "available_capacity": 245,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:30PM"
+          ],
+          "available_capacity_dose1": 97,
+          "available_capacity_dose2": 48
+        },
+        {
+          "session_id": "12693192-9965-4234-aaef-2b60ece5ac27",
+          "date": "22-01-2022",
+          "available_capacity": 285,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 98,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "40ad35ad-2f68-4361-bc8b-f21d98663408",
+          "date": "23-01-2022",
+          "available_capacity": 297,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:30PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "9b871422-7d2b-4028-8311-43f6a194614e",
+          "date": "23-01-2022",
+          "available_capacity": 299,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "3273d5fd-0b4b-4a65-a516-197a1c9e22de",
+          "date": "24-01-2022",
+          "available_capacity": 299,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:30PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 100
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        }
+      ]
+    },
+    {
+      "center_id": 562309,
+      "name": "GBN CHC BHANGEL",
+      "address": "SEC 110 NOIDA G.B.NAGAR",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "de754f82-2668-463c-9176-136270bb0857",
+          "date": "21-01-2022",
+          "available_capacity": 63,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "1bea6265-2709-4efc-8bc3-036db11cef1e",
+          "date": "22-01-2022",
+          "available_capacity": 78,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 603624,
+      "name": "Sjm Super Speciality Hospital",
+      "address": "Sector-63 Chhijarsi Nh-24 Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201307,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "9f83ed26-cd76-496e-9a50-1966f5d53c35",
+          "date": "21-01-2022",
+          "available_capacity": 99,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 50
+        }
+      ]
+    },
+    {
+      "center_id": 975459,
+      "name": "G15 VDRMDSVM INTER COLLEGE",
+      "address": "Onspot Doses Are Avaialble. 8GVX HR9 Dankaur Uttar Pradesh 203201",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9144a016-723c-4d3b-9c4e-2e6955bd5f60",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "70b6037c-8559-48a9-b615-fbee2f776d64",
+          "date": "22-01-2022",
+          "available_capacity": 32,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 32,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 973626,
+      "name": "G15 Navjeevan Inter College",
+      "address": "Onspot Doses Are Available At This Session Site. Gejha Rd Bhangel Salarpur Khadar Sector 110 Noida Uttar Pradesh",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201306,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "cb8c81d7-0953-47c1-8f73-cb4455da03d9",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "304f75a1-4a50-4339-87f1-b4e3b4210c1f",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 568862,
+      "name": "GBN ESIC MODEL HOSPITAL",
+      "address": "Noida Sec 24",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "NOIDA",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3d5f5d03-08f4-4608-9030-0714b1942cad",
+          "date": "21-01-2022",
+          "available_capacity": 163,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 95
+        },
+        {
+          "session_id": "75ecf524-37a9-4b71-b7e6-37e7990b094c",
+          "date": "22-01-2022",
+          "available_capacity": 212,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 137
+        }
+      ]
+    },
+    {
+      "center_id": 973488,
+      "name": "G15 Pt Salagram Inter College",
+      "address": "Onspot Doses Are Available At This Session Site.GCJW G4V Kulesara Noida Uttar Pradesh 201306",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201306,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8112ae5d-5ea7-4488-a1ea-a20827acd1f2",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "686a8cb3-0e43-42cd-82d6-c1b1f976a78d",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 738725,
+      "name": "Icare Eye Hospital",
+      "address": "E-3A Sector-26 Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "13:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "7dba7d7b-0f88-4856-a81b-42a29a3cc6e3",
+          "date": "21-01-2022",
+          "available_capacity": 115,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 45,
+          "available_capacity_dose2": 47
+        },
+        {
+          "session_id": "f0eab12f-5499-4782-ac0d-f16b86ee4d2a",
+          "date": "22-01-2022",
+          "available_capacity": 1,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "f8342cbd-9266-4827-8af3-a68ffa267c11",
+          "date": "24-01-2022",
+          "available_capacity": 147,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-12:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        }
+      ]
+    },
+    {
+      "center_id": 722564,
+      "name": "ABHIBHAVAK SPECIAL 02 A",
+      "address": "Primary School Near C.H.C BISRAKH G.B. NAGAR (Exclusively For Parents Of Children Below 12 Years Of Age)",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "422bc765-9866-439a-b54a-5a57b0cfa8de",
+          "date": "21-01-2022",
+          "available_capacity": 54,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 54
+        },
+        {
+          "session_id": "da5c0422-4a8c-4266-bc3f-2d9d3fb62272",
+          "date": "22-01-2022",
+          "available_capacity": 56,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 56
+        }
+      ]
+    },
+    {
+      "center_id": 682515,
+      "name": "MAX MULTISPECIALITY CENTRE",
+      "address": "A 364 SECTOR 19 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "0f856778-a17a-418f-88d0-94f7081462a6",
+          "date": "21-01-2022",
+          "available_capacity": 1,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 1
+        },
+        {
+          "session_id": "41134579-2577-43fc-baa7-94d7919c6653",
+          "date": "21-01-2022",
+          "available_capacity": 43,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 3,
+          "available_capacity_dose2": 14
+        },
+        {
+          "session_id": "2cc539cf-a7ec-436a-bb97-6378c455c179",
+          "date": "22-01-2022",
+          "available_capacity": 48,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 11,
+          "available_capacity_dose2": 19
+        },
+        {
+          "session_id": "2aa8d90f-be6e-4cfd-86f4-e757c85f1187",
+          "date": "22-01-2022",
+          "available_capacity": 28,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 1,
+          "available_capacity_dose2": 12
+        },
+        {
+          "session_id": "4f3cb7d3-24b2-4607-ae07-0237770aa053",
+          "date": "23-01-2022",
+          "available_capacity": 48,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 25,
+          "available_capacity_dose2": 5
+        },
+        {
+          "session_id": "e8b76937-9c1d-4d9c-87c3-97ea14e077da",
+          "date": "23-01-2022",
+          "available_capacity": 66,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 17,
+          "available_capacity_dose2": 19
+        },
+        {
+          "session_id": "6be9f750-1187-45b1-a986-ef55154c4150",
+          "date": "24-01-2022",
+          "available_capacity": 60,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 17,
+          "available_capacity_dose2": 19
+        },
+        {
+          "session_id": "0950eab6-38df-4100-a567-4fcaa2ec4842",
+          "date": "24-01-2022",
+          "available_capacity": 69,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 26,
+          "available_capacity_dose2": 16
+        },
+        {
+          "session_id": "6ab646a8-06e4-41c0-adff-0a75c6645f61",
+          "date": "25-01-2022",
+          "available_capacity": 75,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 28,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "560b2a1a-b27a-43c6-81c1-196e8b04e80a",
+          "date": "25-01-2022",
+          "available_capacity": 64,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 19,
+          "available_capacity_dose2": 20
+        },
+        {
+          "session_id": "5e2b5871-aef0-4224-b3d7-93b339a06463",
+          "date": "27-01-2022",
+          "available_capacity": 70,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 25,
+          "available_capacity_dose2": 18
+        },
+        {
+          "session_id": "a13ec0cb-2f8d-4917-b3ac-b28885c16f0e",
+          "date": "27-01-2022",
+          "available_capacity": 69,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-02:00PM"
+          ],
+          "available_capacity_dose1": 20,
+          "available_capacity_dose2": 20
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 702224,
+      "name": "GBN CHC JEWAR",
+      "address": "CHC Jewar Kanigarhi Rd Jewar Uttar Pradesh 203135 India",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Jewar",
+      "pincode": 203135,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "846173d6-9342-486b-818d-3730ad2108c9",
+          "date": "21-01-2022",
+          "available_capacity": 227,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 4,
+          "available_capacity_dose2": 124
+        },
+        {
+          "session_id": "920572bf-c8c2-48c2-b512-7540227cee30",
+          "date": "21-01-2022",
+          "available_capacity": 42,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 42,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "0a3d025a-b266-434b-a3dd-ad105468ff9f",
+          "date": "22-01-2022",
+          "available_capacity": 44,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 44,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "4d3cb664-f790-42c1-9b0b-5cfac7cff7fc",
+          "date": "22-01-2022",
+          "available_capacity": 247,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 147
+        }
+      ]
+    },
+    {
+      "center_id": 713397,
+      "name": "GBN SPECTRUM METRO MALL",
+      "address": "SPECTRUM METRO MALL Block A Sector 75 Noida Uttar Pradesh India",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4839d461-c67c-4861-a1a6-15d503778b2c",
+          "date": "21-01-2022",
+          "available_capacity": 120,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 74
+        },
+        {
+          "session_id": "a2766406-c462-439f-89fa-86dd069ff318",
+          "date": "22-01-2022",
+          "available_capacity": 70,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 69
+        }
+      ]
+    },
+    {
+      "center_id": 973080,
+      "name": "G15 Apeejay School - Noida",
+      "address": "Onspot Doses Available At Session Site. Sector 16 A Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ebfdf106-0226-4d52-b1f8-ddb158ec5fcd",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "94010293-d6a1-4b2d-8733-c70622a4b7c2",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 702223,
+      "name": "GBN CHC BADALPUR",
+      "address": "Badalpurnear Vertax Hyundai NH 91 Greater Noida Uttar Pradesh 203207 India",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a301ea2f-f9cf-431f-bf5a-2b2df6724027",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "0f9ecc2e-6f39-4f7e-b177-f08d612da877",
+          "date": "21-01-2022",
+          "available_capacity": 189,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 93
+        },
+        {
+          "session_id": "9a538104-d2d2-4c06-8a21-901b1ea3241d",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "241a002e-2d99-4327-83ac-82550f92437c",
+          "date": "22-01-2022",
+          "available_capacity": 262,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 165
+        }
+      ]
+    },
+    {
+      "center_id": 568976,
+      "name": "GBN DISTRICT COMBINED HOSPITAL",
+      "address": "Sec -30 Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "District Hospital",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "08:00:00",
+      "to": "22:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "73042ee0-d2a6-438b-836a-0e798e067d99",
+          "date": "21-01-2022",
+          "available_capacity": 384,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "08:00AM-11:00AM",
+            "11:00AM-02:00PM",
+            "02:00PM-05:00PM",
+            "05:00PM-10:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 277
+        },
+        {
+          "session_id": "4f455c3c-2b14-433b-9f1d-8ae7d2d4b3af",
+          "date": "22-01-2022",
+          "available_capacity": 510,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "08:00AM-11:00AM",
+            "11:00AM-02:00PM",
+            "02:00PM-05:00PM",
+            "05:00PM-10:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 385
+        },
+        {
+          "session_id": "a745fea7-b714-4063-87ab-8346cd9898bc",
+          "date": "23-01-2022",
+          "available_capacity": 463,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "08:00AM-11:00AM",
+            "11:00AM-02:00PM",
+            "02:00PM-05:00PM",
+            "05:00PM-10:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 316
+        }
+      ]
+    },
+    {
+      "center_id": 973682,
+      "name": "G15 St Josephs School",
+      "address": "Onspot Doses Are Available At This Session Site.Pocket-D Sector-Alpha - I Gautam Budh Nagar Greater Noida Uttar Pradesh 201308",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 201307,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5c7a044d-af81-4073-a452-3b41ef348513",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "8fa175c7-e956-4aa4-9e84-330abac7c854",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 974357,
+      "name": "G15 Vedik Kanya Inter College",
+      "address": "Onspot Doses Are Available. HH33 F96 Dadri Uttar Pradesh 203207",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ca571dfd-d6f8-4df0-a018-20e09a32bce1",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "66b747a2-80e7-4370-921d-bda1574f9d0d",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608408,
+      "name": "APOLLO HOSPITALS PVT",
+      "address": "E 2 SECTOR 26 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 19,
+      "long": 72,
+      "from": "11:00:00",
+      "to": "12:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "eb512973-34ee-4b11-af57-a91b461ebcf7",
+          "date": "21-01-2022",
+          "available_capacity": 38,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "11:00AM-12:00PM"
+          ],
+          "available_capacity_dose1": 19,
+          "available_capacity_dose2": 9
+        },
+        {
+          "session_id": "02dcc285-c1e4-4c61-9ead-6aed9277c23e",
+          "date": "21-01-2022",
+          "available_capacity": 40,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "11:00AM-12:00PM"
+          ],
+          "available_capacity_dose1": 20,
+          "available_capacity_dose2": 10
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1410"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 702232,
+      "name": "GBN PHC DANKAUR",
+      "address": "Near D.I.E.T. Dankaur Uttar Pradesh 203201 India",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Dankaur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ebc7c229-4f65-4cf5-a962-3e353c24818d",
+          "date": "21-01-2022",
+          "available_capacity": 177,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 84
+        },
+        {
+          "session_id": "81c6007d-83f1-4771-ab11-3c43ba6b9e83",
+          "date": "22-01-2022",
+          "available_capacity": 272,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 176
+        }
+      ]
+    },
+    {
+      "center_id": 731687,
+      "name": "VIKAS BHAWAN SURAJPUR(HGT)CO",
+      "address": "SURAJPUR NEAR COURT",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Dankaur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e9a87fc4-3c80-40cc-a375-7807d32fa4cb",
+          "date": "21-01-2022",
+          "available_capacity": 241,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 141
+        },
+        {
+          "session_id": "ba265e73-0946-4e6a-8630-30af9a86d07a",
+          "date": "22-01-2022",
+          "available_capacity": 229,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 131
+        }
+      ]
+    },
+    {
+      "center_id": 713412,
+      "name": "G15 Gautam B BALAK INT COLLEGE",
+      "address": "Onspot Doses Are Available At This Session Site.Gautam Budh Balak Inter College Chauganpur Bisrakh Jalalpur Greater Noida Uttar Pradesh India",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e5cd459a-0093-408d-815c-bf8225a6ac4a",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "bcac6b1f-e10b-43f8-8f22-091db96a948f",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608706,
+      "name": "YATHARTH SUPERSPECIALITY 110",
+      "address": "PLOT NO 1 GEJHA ROAD LOTUS PANACHE SECTOR 110 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201304,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "c5d644e4-f454-43ca-b190-1664692ba819",
+          "date": "21-01-2022",
+          "available_capacity": 52,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 17,
+          "available_capacity_dose2": 16
+        },
+        {
+          "session_id": "e1cfd367-cb3a-4371-8a63-76d22055f336",
+          "date": "22-01-2022",
+          "available_capacity": 10,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 5,
+          "available_capacity_dose2": 2
+        },
+        {
+          "session_id": "164cc489-999e-42e2-aa9c-548fb2e6d2cd",
+          "date": "22-01-2022",
+          "available_capacity": 60,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 20,
+          "available_capacity_dose2": 20
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1410"
+        }
+      ]
+    },
+    {
+      "center_id": 1018211,
+      "name": "FELIX HOSPITAL POLYCLINIC",
+      "address": "NH-01SECTOR-75 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "20:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "f0af2412-c286-4851-b5fd-41f49ef3bbed",
+          "date": "21-01-2022",
+          "available_capacity": 295,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 95,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "3a06e1b4-9dd7-4b44-a6a0-8b08e9125567",
+          "date": "21-01-2022",
+          "available_capacity": 293,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 100,
+          "available_capacity_dose2": 96
+        },
+        {
+          "session_id": "57db2d8e-06dd-450d-ade6-e78bc6f6441c",
+          "date": "22-01-2022",
+          "available_capacity": 297,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 97,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "4bf383d5-e8f7-4d39-9497-2af7b282390f",
+          "date": "22-01-2022",
+          "available_capacity": 293,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 98,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "6f371999-e8ed-4bd6-9901-6f41818651d6",
+          "date": "23-01-2022",
+          "available_capacity": 294,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 100,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "6cabed5a-37d2-4209-9a6d-76b6c020fb5c",
+          "date": "23-01-2022",
+          "available_capacity": 295,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 97,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "9307eeb6-8893-448c-bbb7-ca7bac1b33be",
+          "date": "24-01-2022",
+          "available_capacity": 300,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 100,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "0f3fa6ae-f086-4edf-beb4-9e504d484bca",
+          "date": "24-01-2022",
+          "available_capacity": 287,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 95,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "0c0509fe-64f8-43c3-9a72-ad07e57479e4",
+          "date": "25-01-2022",
+          "available_capacity": 298,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 98,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "606be9e4-6a17-484e-8ac2-3c6a98def045",
+          "date": "25-01-2022",
+          "available_capacity": 288,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 98,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "f2d26164-861b-4912-a887-12d741ef77dc",
+          "date": "26-01-2022",
+          "available_capacity": 299,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "7839595a-74f9-40ee-b914-4dfff1022e1a",
+          "date": "26-01-2022",
+          "available_capacity": 288,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 100,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "2ea8ce46-d5ab-484e-88e7-aebee012a036",
+          "date": "27-01-2022",
+          "available_capacity": 285,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 100
+        },
+        {
+          "session_id": "7299015e-3f27-492f-9b64-bd836d67919b",
+          "date": "27-01-2022",
+          "available_capacity": 299,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-08:00PM"
+          ],
+          "available_capacity_dose1": 99,
+          "available_capacity_dose2": 100
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 718901,
+      "name": "FELIX HEALTHCARE PVT LIMITED",
+      "address": "SECTOR 137 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201305,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "23:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "1207e762-5a4f-4eb0-9318-4695f39b7594",
+          "date": "21-01-2022",
+          "available_capacity": 484,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 192,
+          "available_capacity_dose2": 196
+        },
+        {
+          "session_id": "acc71b6b-3eea-4567-bb23-12bd5c0fa6a5",
+          "date": "21-01-2022",
+          "available_capacity": 492,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 196,
+          "available_capacity_dose2": 198
+        },
+        {
+          "session_id": "d935f567-9ed9-4f0a-986a-ca825e8c57cf",
+          "date": "22-01-2022",
+          "available_capacity": 488,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 197,
+          "available_capacity_dose2": 198
+        },
+        {
+          "session_id": "bf672f9d-2f72-45da-9cb2-e2685c255770",
+          "date": "22-01-2022",
+          "available_capacity": 491,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 195,
+          "available_capacity_dose2": 196
+        },
+        {
+          "session_id": "012edb78-c945-4798-a1fb-dcdd510421b2",
+          "date": "23-01-2022",
+          "available_capacity": 493,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 196,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "86ff829b-dad2-416f-a10c-b53e1c658230",
+          "date": "23-01-2022",
+          "available_capacity": 496,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 200,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "abe87bb5-7255-469e-ad9c-f09bd5b7a31d",
+          "date": "24-01-2022",
+          "available_capacity": 487,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 198,
+          "available_capacity_dose2": 199
+        },
+        {
+          "session_id": "4bec794f-5e90-48cd-987d-d6a415c9f40f",
+          "date": "24-01-2022",
+          "available_capacity": 499,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 199,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "f6175095-3811-4e02-95e3-6e4c4d15fe89",
+          "date": "25-01-2022",
+          "available_capacity": 492,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 200,
+          "available_capacity_dose2": 199
+        },
+        {
+          "session_id": "d2e753ad-8e2a-4810-b943-35685f946960",
+          "date": "25-01-2022",
+          "available_capacity": 498,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 198,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "d8fa1c40-acb1-4c41-a2b8-da3b8871bbfe",
+          "date": "26-01-2022",
+          "available_capacity": 499,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 200,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "38a71123-6747-44a8-b9d3-75fdbf6b174b",
+          "date": "26-01-2022",
+          "available_capacity": 500,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 200,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "a2c9147c-3431-4da9-8f4f-7cb5eece30ab",
+          "date": "27-01-2022",
+          "available_capacity": 493,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 199,
+          "available_capacity_dose2": 200
+        },
+        {
+          "session_id": "e98e419c-65f9-4349-abb3-1bd413167081",
+          "date": "27-01-2022",
+          "available_capacity": 500,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-11:30PM"
+          ],
+          "available_capacity_dose1": 200,
+          "available_capacity_dose2": 200
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        }
+      ]
+    },
+    {
+      "center_id": 696771,
+      "name": "GBN SSPHPGTI NOIDA",
+      "address": "SECTOR 30 GB NAGAR",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4e79abe1-3c3a-4e23-a91c-4e953815c4a0",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "463e0b29-9d9e-46ae-9a22-c96a3b0e7b76",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 629058,
+      "name": "INDO GULF HOSPITAL PVT",
+      "address": "B 498 A AND B Sector 19 Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:30:00",
+      "to": "15:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "34d7b8bc-9553-40f2-a973-0b0871c08a27",
+          "date": "21-01-2022",
+          "available_capacity": 39,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 14,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "f22deec5-6015-43c2-88c4-51af73bbf1b1",
+          "date": "21-01-2022",
+          "available_capacity": 38,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 14,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "04c058de-f96c-474c-a857-ed4ed941ed8d",
+          "date": "22-01-2022",
+          "available_capacity": 38,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 13,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "da58b682-a0e2-46c2-b877-4ed0e3a9d4f9",
+          "date": "22-01-2022",
+          "available_capacity": 39,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 15,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "3f291953-ffb2-462d-a7e6-d87e4f99d0af",
+          "date": "23-01-2022",
+          "available_capacity": 38,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 13,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "8ef6642a-5842-48aa-be82-d94834fd408c",
+          "date": "23-01-2022",
+          "available_capacity": 28,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 9,
+          "available_capacity_dose2": 9
+        },
+        {
+          "session_id": "3e9853fa-99f4-4e6d-8949-5614f780e79a",
+          "date": "24-01-2022",
+          "available_capacity": 38,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 15,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "469e0f6e-c900-46b0-bdcb-face59e2d9ba",
+          "date": "24-01-2022",
+          "available_capacity": 40,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 15,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "68225e78-fefe-4ae0-bd7f-5de238f3ba3c",
+          "date": "25-01-2022",
+          "available_capacity": 40,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 15,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "4311bb1e-21d4-462a-931e-ce39169f071e",
+          "date": "25-01-2022",
+          "available_capacity": 40,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 15,
+          "available_capacity_dose2": 15
+        },
+        {
+          "session_id": "ab86f6dc-bfa8-4260-b066-c427d62fe7c7",
+          "date": "26-01-2022",
+          "available_capacity": 30,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 10,
+          "available_capacity_dose2": 10
+        },
+        {
+          "session_id": "2af08622-cbca-4b37-9e41-d4691e9db2c5",
+          "date": "27-01-2022",
+          "available_capacity": 30,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 10,
+          "available_capacity_dose2": 10
+        },
+        {
+          "session_id": "485a4290-e1e1-4632-b943-994ea9e6042d",
+          "date": "27-01-2022",
+          "available_capacity": 43,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:30PM"
+          ],
+          "available_capacity_dose1": 15,
+          "available_capacity_dose2": 15
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1410"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 629022,
+      "name": "YATHARTH SUPERSPECIALITY EXT",
+      "address": "SECTOR 1 NOIDA EXTENSION",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "b6dd0767-7144-4a26-8414-8d8762fa8d79",
+          "date": "21-01-2022",
+          "available_capacity": 24,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 5,
+          "available_capacity_dose2": 9
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 722683,
+      "name": "ABHIBHAVAK SPECIAL 01 A",
+      "address": "BAKSONS HOMEOPATHY BLOCK 36B KNOWLEDGE PARK PHASE 1 GREATER NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Dankaur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "86517d02-b9b1-47ca-b575-5580d6af1b94",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "c20f16e7-d8c4-4391-90fe-576dfeb6b2ac",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 739900,
+      "name": "Prayag HospitalResearch Centre",
+      "address": "J 206 A1 SECTOR 41 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "7644469a-6648-405f-b04c-d1158af95a27",
+          "date": "21-01-2022",
+          "available_capacity": 289,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 94,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "58477ac1-cf33-4e8a-9acc-2743919be80b",
+          "date": "22-01-2022",
+          "available_capacity": 285,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 98,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "d6f640fa-213d-40ce-bab2-2c6160e3a504",
+          "date": "23-01-2022",
+          "available_capacity": 281,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 97,
+          "available_capacity_dose2": 97
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 708350,
+      "name": "GBN UMA PUBLIC SCHOOL SURAJPUR",
+      "address": "NEAR POLICE CHOWKI MAIN DADRI ROAD SURAJPUR GREATER NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201306,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a1168085-8f13-4175-8866-9e940435b8d4",
+          "date": "21-01-2022",
+          "available_capacity": 230,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 133
+        },
+        {
+          "session_id": "887704a0-ebb5-4fd5-b044-725899a25379",
+          "date": "22-01-2022",
+          "available_capacity": 241,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 145
+        }
+      ]
+    },
+    {
+      "center_id": 974611,
+      "name": "G15 S.D.Kanya Inter College",
+      "address": "Onspot Doses Are Available. SD Kanya Road Bilaspur Uttar Pradesh 203202",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203202,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7fb4e2fb-7f70-4be6-9fef-dc05e11124b7",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "57837665-27b7-451c-b5b7-2a8673a6e6ea",
+          "date": "22-01-2022",
+          "available_capacity": 17,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 17,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 974694,
+      "name": "G15 Saraswati Vidhya Mandir",
+      "address": "Onspot Doses Are Available. Dankaur - Makanpur Rd Dankaur Uttar Pradesh 203201",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203201,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "aa4bb9af-3d3e-470f-9a59-fbdcd6ec1180",
+          "date": "21-01-2022",
+          "available_capacity": 12,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 12,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "56bf41ed-0222-4a6f-9f99-f44725b51dca",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 974979,
+      "name": "G15 PUBLIC INTER COLLEGE",
+      "address": "Onspot Doses Are Available. Jahangirpur Uttar Pradesh 203141",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203141,
+      "lat": 0,
+      "long": 0,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "31dfbf80-eb7a-42f6-80e6-4e8405dd8d95",
+          "date": "21-01-2022",
+          "available_capacity": 47,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 47,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "8ea83913-cb63-4d47-a210-e9ad2bb775be",
+          "date": "22-01-2022",
+          "available_capacity": 46,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 46,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 974286,
+      "name": "G15 Bloom International School",
+      "address": "Onspot Doses Are Avaialble. Techzone-VII Opposite Galaxy Vega Housing Society Greater Noida Uttar Pradesh 203207",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f1ab77af-7f9b-44df-8ad8-afbdb5c1faa6",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "c8afdd3a-9d61-4a17-9fd3-0e5286b94771",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 606329,
+      "name": "Sharda Hospital G NOIDA",
+      "address": "Plot No.32-34 Knowledge Park-3 Greater Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201310,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "1a10bc0f-d420-46bf-813a-286e2c091076",
+          "date": "21-01-2022",
+          "available_capacity": 90,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 33,
+          "available_capacity_dose2": 47
+        },
+        {
+          "session_id": "34212c28-be73-4368-91bf-d103f55c18f8",
+          "date": "21-01-2022",
+          "available_capacity": 870,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 388,
+          "available_capacity_dose2": 394
+        },
+        {
+          "session_id": "eb2ed821-a4f7-4d44-a42f-9d4f82698ad2",
+          "date": "22-01-2022",
+          "available_capacity": 93,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 36,
+          "available_capacity_dose2": 47
+        },
+        {
+          "session_id": "3fd4decb-a177-49a2-a474-baa3bf4795ed",
+          "date": "22-01-2022",
+          "available_capacity": 877,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 392,
+          "available_capacity_dose2": 395
+        },
+        {
+          "session_id": "8800c0c4-83d5-4d15-9ae5-341e93105fbf",
+          "date": "23-01-2022",
+          "available_capacity": 892,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 396,
+          "available_capacity_dose2": 397
+        },
+        {
+          "session_id": "8650aa61-e79d-46e0-8767-6583f6775777",
+          "date": "23-01-2022",
+          "available_capacity": 102,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 43
+        },
+        {
+          "session_id": "b61f8944-694c-433e-984a-33efe2fdc441",
+          "date": "24-01-2022",
+          "available_capacity": 871,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 397,
+          "available_capacity_dose2": 399
+        },
+        {
+          "session_id": "e184a0c3-d763-47e8-ba5d-a33ed35d1417",
+          "date": "24-01-2022",
+          "available_capacity": 109,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "e15bb8cd-3843-4867-bc32-ef7cdf5efb85",
+          "date": "25-01-2022",
+          "available_capacity": 881,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 393,
+          "available_capacity_dose2": 399
+        },
+        {
+          "session_id": "1568bd7f-890a-4ad2-8bf3-674659453ffa",
+          "date": "25-01-2022",
+          "available_capacity": 108,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "66d697ad-b971-4428-9d56-c6b38f42575f",
+          "date": "26-01-2022",
+          "available_capacity": 896,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 398,
+          "available_capacity_dose2": 399
+        },
+        {
+          "session_id": "fafd3afe-0a65-4723-8edc-5058186e5117",
+          "date": "26-01-2022",
+          "available_capacity": 110,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-01:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "6acf545b-3ac6-4cc4-8ebf-cd42c1f9b3a5",
+          "date": "27-01-2022",
+          "available_capacity": 884,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 398,
+          "available_capacity_dose2": 398
+        },
+        {
+          "session_id": "885ddbed-03c3-455c-a680-6d43d3f6c8fb",
+          "date": "27-01-2022",
+          "available_capacity": 110,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        },
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 606121,
+      "name": "Prakash Hospital Pvt.Ltd.",
+      "address": "D-12 12-A 12-B Sector - 33 Noida",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "dd04481d-862d-4276-a99b-27fea2eaaff5",
+          "date": "21-01-2022",
+          "available_capacity": 150,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 974468,
+      "name": "G15 MIHIR BHOJ INTER COLLEGE",
+      "address": "Onspot Doses Are Available. HH25 88G Dadri Uttar Pradesh 203207",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "98756d9f-136e-41da-871a-963ff7962e43",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "442be11b-26cf-4db5-9b8a-b7105ef1cd58",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 609930,
+      "name": "GBN PHC MAMURA",
+      "address": "PHC MAMURA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d2bc8161-0f9c-4500-9eab-2987040b83a3",
+          "date": "21-01-2022",
+          "available_capacity": 172,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 76
+        },
+        {
+          "session_id": "42e79cc3-9a34-4376-84f1-affa122b8dc2",
+          "date": "22-01-2022",
+          "available_capacity": 194,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 104
+        }
+      ]
+    },
+    {
+      "center_id": 799768,
+      "name": "APOLLO SPECTRA HOSPITALS.",
+      "address": "PLOT NO 27 POCKET P 7 SECTOR BUILDER AREA OPPOSITE MITRA SOCIETY GREATER NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201310,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "1d8090b4-7f4c-4b4a-a0cb-2207a46f7945",
+          "date": "21-01-2022",
+          "available_capacity": 130,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 47,
+          "available_capacity_dose2": 45
+        },
+        {
+          "session_id": "7084ca59-9a1d-42a6-b6b8-28edff8937cf",
+          "date": "22-01-2022",
+          "available_capacity": 137,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 48,
+          "available_capacity_dose2": 49
+        },
+        {
+          "session_id": "30a5c002-11a3-4ea2-a15d-ad18dc13e6da",
+          "date": "23-01-2022",
+          "available_capacity": 70,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-01:30PM",
+            "01:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 33,
+          "available_capacity_dose2": 37
+        },
+        {
+          "session_id": "9eb99071-8b13-4ebf-b56a-59c20fca1d87",
+          "date": "24-01-2022",
+          "available_capacity": 292,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 100,
+          "available_capacity_dose2": 99
+        },
+        {
+          "session_id": "5f6f9ff9-cee3-4d86-a4e3-2a7979e82e7e",
+          "date": "25-01-2022",
+          "available_capacity": 149,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 49,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "a8b86b51-0753-410c-a4e3-db35d586287f",
+          "date": "26-01-2022",
+          "available_capacity": 79,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-01:30PM",
+            "01:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 40,
+          "available_capacity_dose2": 39
+        },
+        {
+          "session_id": "f58e78f7-3763-4063-84da-1d2a2e16c02b",
+          "date": "27-01-2022",
+          "available_capacity": 141,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 975156,
+      "name": "G15 PUBLIC INTER COLLEGE 2",
+      "address": "Onspot Doses Are Avaialble. Noida Rabupura Uttar Pradesh 203209",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203209,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f122c699-83ab-4e0e-b3c2-8f7e0f80a73e",
+          "date": "21-01-2022",
+          "available_capacity": 18,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 18,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "fe181f63-a46b-4443-afbe-a5c412b6d353",
+          "date": "22-01-2022",
+          "available_capacity": 30,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 30,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608133,
+      "name": "Fortis Hospital PVT",
+      "address": "Rasoolpur Nawada Industrial Area Sector 62 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "11:00:00",
+      "to": "15:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "5d284bf2-2a61-4062-8c5b-a6f66bfc06bf",
+          "date": "21-01-2022",
+          "available_capacity": 74,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 38,
+          "available_capacity_dose2": 17
+        },
+        {
+          "session_id": "1e93302e-53c0-4c9b-8500-a4ed4f4fa775",
+          "date": "22-01-2022",
+          "available_capacity": 77,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-02:00PM",
+            "02:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 39,
+          "available_capacity_dose2": 19
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1200"
+        }
+      ]
+    },
+    {
+      "center_id": 769755,
+      "name": "GBN GIP MALL COVISHIELD",
+      "address": "GIP MALL SECTOR 38 NEAR PETROL PUMP NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3af8a307-4756-4b43-929b-e30995c30030",
+          "date": "21-01-2022",
+          "available_capacity": 110,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 58
+        },
+        {
+          "session_id": "0e84f180-3845-4227-adba-5007902e1d66",
+          "date": "22-01-2022",
+          "available_capacity": 174,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 120
+        }
+      ]
+    },
+    {
+      "center_id": 606983,
+      "name": "NEO HOSPITAL PVT",
+      "address": "D 176 A SECTOR 50 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:30:00",
+      "to": "16:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "495bbb50-051d-4a47-982e-bf91eb7dc05b",
+          "date": "21-01-2022",
+          "available_capacity": 91,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-11:30AM",
+            "11:30AM-01:30PM",
+            "01:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 25,
+          "available_capacity_dose2": 25
+        },
+        {
+          "session_id": "c237363a-f740-4fcd-82ec-25ac951126bd",
+          "date": "22-01-2022",
+          "available_capacity": 146,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-11:30AM",
+            "11:30AM-01:30PM",
+            "01:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "36346836-0f44-4dae-be20-00503a96c952",
+          "date": "24-01-2022",
+          "available_capacity": 148,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-11:30AM",
+            "11:30AM-01:30PM",
+            "01:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "968f31dd-965b-488e-b3e5-96008ad8049a",
+          "date": "25-01-2022",
+          "available_capacity": 149,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-11:30AM",
+            "11:30AM-01:30PM",
+            "01:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        },
+        {
+          "session_id": "314a3134-1feb-4705-aa24-09553e079f07",
+          "date": "27-01-2022",
+          "available_capacity": 149,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:30AM-11:30AM",
+            "11:30AM-01:30PM",
+            "01:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 50,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 575806,
+      "name": "GBN CHC DADRI",
+      "address": "CHC DADRI",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Dadri",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f8312ab7-72ff-4cf3-b9f0-bd20174d78d1",
+          "date": "21-01-2022",
+          "available_capacity": 182,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 88
+        },
+        {
+          "session_id": "87363e31-006f-4aa8-8e7f-39e388567bc3",
+          "date": "22-01-2022",
+          "available_capacity": 225,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 133
+        }
+      ]
+    },
+    {
+      "center_id": 976483,
+      "name": "G15 NSCB INTER COLLEGE",
+      "address": "Onspot Doses Are Available. Vishal Sharma House Bhanauta Greater Noida Uttar Pradesh 203207",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203207,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3f874998-9046-4bb1-b9d5-98bc4f7d6755",
+          "date": "21-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "df1da01d-456a-4326-96d5-f051ee32e8fb",
+          "date": "22-01-2022",
+          "available_capacity": 0,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 975081,
+      "name": "G15 JANTA INTER COLLEGE",
+      "address": "Onspot Doses Are Available. MDR 70W Uttar Pradesh 203135",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Raipur",
+      "pincode": 203135,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3748d6ff-87e6-4a79-a114-c5c089933351",
+          "date": "21-01-2022",
+          "available_capacity": 10,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 10,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "57daef64-0277-4fd6-a755-9fefe56b16c2",
+          "date": "22-01-2022",
+          "available_capacity": 11,
+          "min_age_limit": 15,
+          "allow_all_age": true,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 11,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 769392,
+      "name": "SURYA HOSPITAL PVT",
+      "address": "47 K P IIIRD GREATER NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201306,
+      "lat": 28,
+      "long": 77,
+      "from": "10:00:00",
+      "to": "15:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "9c95c940-390c-45ee-9bdd-e6bb813efb41",
+          "date": "22-01-2022",
+          "available_capacity": 97,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:30PM"
+          ],
+          "available_capacity_dose1": 28,
+          "available_capacity_dose2": 49
+        },
+        {
+          "session_id": "e769fd21-136f-46fa-830c-37a38c08ad9c",
+          "date": "24-01-2022",
+          "available_capacity": 100,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-03:30PM"
+          ],
+          "available_capacity_dose1": 30,
+          "available_capacity_dose2": 50
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 748901,
+      "name": "METRO HOSPITALS",
+      "address": "L 94 SECTOR 11 NOIDA",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "d952de90-304b-44ed-82c1-514882614833",
+          "date": "22-01-2022",
+          "available_capacity": 160,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 30,
+          "available_capacity_dose2": 30
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 643477,
+      "name": "Itek Vision Centre",
+      "address": "B-1A 22 Sector 51",
+      "state_name": "Uttar Pradesh",
+      "district_name": "Gautam Buddha Nagar",
+      "block_name": "Bisrakh",
+      "pincode": 201301,
+      "lat": 28,
+      "long": 77,
+      "from": "10:30:00",
+      "to": "11:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "b5b2e9fa-6a55-4dd5-b393-d62664b29035",
+          "date": "22-01-2022",
+          "available_capacity": 84,
+          "min_age_limit": 18,
+          "max_age_limit": 44,
+          "allow_all_age": false,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:30AM-11:30AM"
+          ],
+          "available_capacity_dose1": 29,
+          "available_capacity_dose2": 30
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    }
+  ]
+}
